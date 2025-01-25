@@ -1,0 +1,3 @@
+[submodule "AgrowAI"]
+    path = AgrowAI
+    url = https://github.com/Balnethrinath/AgrowAI.git
